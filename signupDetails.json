@@ -1,0 +1,29 @@
+[
+{
+"id": 1,
+"firstName": "auto",
+"lastName": "test",
+"email": "automation+1@agro-scout.com",
+"phone": "0545555555",
+"username": "autouser",
+"password": "123Qwe",
+},
+{
+"id": 2,
+"firstName": "auto",
+"lastName": "test",
+"email": "automation+2@agro-scout.com",
+"phone": "0545555555",
+"username": "autoadmin",
+"password": "123Qwe",
+},
+{
+"id": 3,
+"firstName": "auto",
+"lastName": "test",
+"email": "automation+3@agro-scout.com",
+"phone": "0545555555",
+"username": "autoagronom",
+"password": "123Qwe",
+}
+]
